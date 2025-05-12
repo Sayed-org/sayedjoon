@@ -1,7 +1,0 @@
-{
-  "files": [],
-  "references": [
-    { "path": "./" }, // NestJS project
-    { "path": "./project-template/frontend" } // Next.js project
-  ]
-}
