@@ -1,3 +1,0 @@
-# sayedjoon
-
-Project initialization
